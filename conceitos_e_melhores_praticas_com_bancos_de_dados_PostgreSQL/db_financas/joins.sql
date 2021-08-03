@@ -71,6 +71,8 @@ CROSS JOIN teste_b tblb;
 DROP TABLE IF EXISTS teste_a;
 DROP TABLE IF EXISTS teste_b;
 
+-- SELECT com transações de cliente e tipo de transações de cada cliente
+
 SELECT banco.nome,
 		agencia.nome,
 		conta_corrente.numero,
@@ -83,4 +85,6 @@ JOIN conta_corrente
 	ON conta_corrente.banco_numero = banco.numero
 	AND conta_corrente.agencia_numero = agencia.numero
 JOIN cliente 
-	ON cliente.numero = conta_corrente.cliente_numero;
+	ON cliente.numero = conta_corrente.cliente_numero
+JOIN cliente_transacoes
+	ON cliente_transacoes.conta_corrente_numero = conta_corrente.numero;

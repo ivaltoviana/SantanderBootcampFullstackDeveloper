@@ -8,6 +8,7 @@
 Olá 👋, aqui coloco os exercícios de código e projetos que estou estudando no Bootcamp do Santander, bem como os certificados.
 
 <hr>
+
 ### Certificados:
 
 <ul>

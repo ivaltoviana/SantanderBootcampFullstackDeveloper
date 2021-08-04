@@ -30,8 +30,7 @@ Olá 👋, aqui coloco os exercícios de código e projetos que estou estudando 
     </li>
     <li>
         <img src="img/bd_postgresql.png" width="35" height="30">
-        <a href="https://certificates.digitalinnovation.one/ECCD3E86">
-            Conceitos e melhores práticas com bancos de dados PostgreSQL</a> - Estudando...
+        <a href="https://certificates.digitalinnovation.one/EC3B7219">
+            Conceitos e melhores práticas com bancos de dados PostgreSQL</a> - 9 horas
     </li>
 </ul>
-

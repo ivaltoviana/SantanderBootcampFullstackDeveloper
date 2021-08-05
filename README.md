@@ -34,3 +34,4 @@ Olá 👋, aqui coloco os exercícios de código e projetos que estou estudando 
             Conceitos e melhores práticas com bancos de dados PostgreSQL</a> - 9 horas
     </li>
 </ul>
+

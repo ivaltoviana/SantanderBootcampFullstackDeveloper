@@ -6,13 +6,13 @@ public class Programa {
 
         //final FormaGeometrica formaGeometrica = new FormaGeometrica();
 
-        final FormaGeometrica quadadro = new Quadrado("quadadro", 10.0);
+        final FormaGeometrica quadrado = new Quadrado("quadrado", 10.0);
 
-        System.out.println(quadadro);
+        System.out.println(quadrado);
         
-        System.out.println(quadadro.desenha(12,34));
-        System.out.println(quadadro.nome());
-        System.out.println(quadadro.area());
+        System.out.println(quadrado.desenha(12,34));
+        System.out.println(quadrado.nome());
+        System.out.println(quadrado.area());
     }
 
 }

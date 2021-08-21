@@ -21,7 +21,7 @@ public class ForEach {
         System.out.println("\n");
 
         // range - retorna um IntStream ordenado sequencialmente
-        // Passado o range dos números de 0 - 3 e os imprime na tela
+        // Passando o range dos números de 0 - 3 e os imprime na tela
         IntStream.range(0, 3).forEach(n -> {
             System.out.println("Número = " + n);
         });

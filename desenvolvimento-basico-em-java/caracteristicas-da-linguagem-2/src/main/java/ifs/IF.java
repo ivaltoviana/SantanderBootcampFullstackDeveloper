@@ -14,8 +14,9 @@ public class IF {
         }
 
         // se o if for de uma única linha posso usar dessa forma, sem o uso de chaves
-        if (condicao)
+        if (condicao) {
             System.out.println("Uma única linha...");
+        }
 
         // if ternário: if e else em uma única condição
         // ? -> true ou false

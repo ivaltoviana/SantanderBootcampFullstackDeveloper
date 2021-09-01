@@ -14,28 +14,28 @@ Olá 👋, aqui coloco os exercícios de código e projetos que estou estudando 
 <ul>
     <li>
         <img src="img/bootcamp-santander-fullstack-developer.png" width="30" height="30">
-        <a href="https://certificates.digitalinnovation.one/F3F36FAF">Boas-vindas ao Bootcamp Santander Fullstack Developer</a> - 1 hora.
+        <a href="https://certificates.digitalinnovation.one/F3F36FAF" target="_blank">Boas-vindas ao Bootcamp Santander Fullstack Developer</a> - 1 hora.
     </li>
     <li>
         <img src="img/dio.png" width="30" height="30">
-        <a href="https://certificates.digitalinnovation.one/7AB87C4B">Bem-vindo à DIO</a> - 1 hora.
+        <a href="https://certificates.digitalinnovation.one/7AB87C4B" target="_blank">Bem-vindo à DIO</a> - 1 hora.
     </li>
     <li>
         <img src="img/logica-programacao-essencial.png" width="30" height="30">
-        <a href="https://certificates.digitalinnovation.one/2F5F89D5">Lógica de programação essencial</a> - 4 horas.
+        <a href="https://certificates.digitalinnovation.one/2F5F89D5" target="_blank">Lógica de programação essencial</a> - 4 horas.
     </li>
     <li>
         <img src="img/git-github.png" width="30" height="30">
-        <a href="https://certificates.digitalinnovation.one/ECCD3E86">Introdução ao Git e ao GitHub</a> - 5 horas.
+        <a href="https://certificates.digitalinnovation.one/ECCD3E86" target="_blank">Introdução ao Git e ao GitHub</a> - 5 horas.
     </li>
     <li>
         <img src="img/bd_postgresql.png" width="30" height="30">
-        <a href="https://certificates.digitalinnovation.one/EC3B7219">
+        <a href="https://certificates.digitalinnovation.one/EC3B7219" target="_blank">
             Conceitos e melhores práticas com bancos de dados PostgreSQL</a> - 9 horas
     </li>
     <li>
         <img src="img/java-basico.png" width="30" height="30">
-            <a href="https://certificates.digitalinnovation.one/C1B79C9A">Desenvolvimento básico em Java</a> - 9 horas
+            <a href="https://certificates.digitalinnovation.one/C1B79C9A" target="_blank">Desenvolvimento básico em Java</a> - 9 horas
     </li>
 </ul>
 

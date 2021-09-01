@@ -35,7 +35,7 @@ Olá 👋, aqui coloco os exercícios de código e projetos que estou estudando 
     </li>
     <li>
         <img src="img/java-basico.png" width="30" height="30">
-            Desenvolvimento básico em Java</a> - Estudando...
+            <a href="https://certificates.digitalinnovation.one/C1B79C9A">Desenvolvimento básico em Java</a> - 9 horas
     </li>
 </ul>
 
